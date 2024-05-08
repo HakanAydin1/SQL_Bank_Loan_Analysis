@@ -8,3 +8,4 @@ WHERE EXTRACT(MONTH FROM issue_date) = 12 AND EXTRACT(YEAR FROM issue_date) = 20
 
 SELECT AVG(int_rate) * 100 AS PMTD_Avg_Interest_Rate FROM bank_loan_data
 WHERE EXTRACT(MONTH FROM issue_date) = 11 AND EXTRACT(YEAR FROM issue_date) = 2021
+

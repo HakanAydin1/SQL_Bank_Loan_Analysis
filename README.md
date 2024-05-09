@@ -1,5 +1,9 @@
 # Introduction
-📊 Dive into the data job market! Focusing on data analyst roles, this project explores 💰 top-paying jobs, 🔥 in-demand skills, and 📈 where high demand meets high salary in data analytics.
+Welcome to the Banking Analysis project! In this endeavor, I delve into the world of Banking Analysis, leveraging SQL queries and data visualization techniques to uncover insights into key performance indicators (KPIs), loan metrics, and market trends.
+
+Through this project, I aim to explore various aspects of the banking sector, including loan applications, funded amounts, interest rates, debt-to-income ratios, and more. By analyzing these metrics, I seek to gain a deeper understanding of the financial landscape and identify opportunities for improvement and optimization.
+
+This project not only serves as a platform to showcase my SQL skills but also provides valuable insights into the dynamics of the banking industry.
 
 🔍 SQL queries? Check them out here: [project_sql folder](/project_sql/)
 
